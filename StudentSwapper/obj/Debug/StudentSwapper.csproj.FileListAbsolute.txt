@@ -1,0 +1,14 @@
+D:\narek\cragravorum\my applications\C# projects\Microsoft\labs\oop\StudentSwapper\StudentSwapper\bin\Debug\StudentSwapper.exe.config
+D:\narek\cragravorum\my applications\C# projects\Microsoft\labs\oop\StudentSwapper\StudentSwapper\bin\Debug\StudentSwapper.exe
+D:\narek\cragravorum\my applications\C# projects\Microsoft\labs\oop\StudentSwapper\StudentSwapper\bin\Debug\StudentSwapper.pdb
+D:\narek\cragravorum\my applications\C# projects\Microsoft\labs\oop\StudentSwapper\StudentSwapper\obj\Debug\StudentSwapper.csprojAssemblyReference.cache
+D:\narek\cragravorum\my applications\C# projects\Microsoft\labs\oop\StudentSwapper\StudentSwapper\obj\Debug\StudentSwapper.csproj.CoreCompileInputs.cache
+D:\narek\cragravorum\my applications\C# projects\Microsoft\labs\oop\StudentSwapper\StudentSwapper\obj\Debug\StudentSwapper.exe
+D:\narek\cragravorum\my applications\C# projects\Microsoft\labs\oop\StudentSwapper\StudentSwapper\obj\Debug\StudentSwapper.pdb
+D:\narek\Programming\my applications\C# projects\Microsoft\labs\oop\StudentSwapper\StudentSwapper\bin\Debug\StudentSwapper.exe.config
+D:\narek\Programming\my applications\C# projects\Microsoft\labs\oop\StudentSwapper\StudentSwapper\bin\Debug\StudentSwapper.exe
+D:\narek\Programming\my applications\C# projects\Microsoft\labs\oop\StudentSwapper\StudentSwapper\bin\Debug\StudentSwapper.pdb
+D:\narek\Programming\my applications\C# projects\Microsoft\labs\oop\StudentSwapper\StudentSwapper\obj\Debug\StudentSwapper.csprojAssemblyReference.cache
+D:\narek\Programming\my applications\C# projects\Microsoft\labs\oop\StudentSwapper\StudentSwapper\obj\Debug\StudentSwapper.csproj.CoreCompileInputs.cache
+D:\narek\Programming\my applications\C# projects\Microsoft\labs\oop\StudentSwapper\StudentSwapper\obj\Debug\StudentSwapper.exe
+D:\narek\Programming\my applications\C# projects\Microsoft\labs\oop\StudentSwapper\StudentSwapper\obj\Debug\StudentSwapper.pdb
